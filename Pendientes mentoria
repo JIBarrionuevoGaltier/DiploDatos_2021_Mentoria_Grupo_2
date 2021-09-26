@@ -1,0 +1,35 @@
+Pendientes mentoria
+
+TP1 - Leerlo si hay ganas y revisar
+
+TP2
+
+- Revisar, agregar comentarios en operaciones q no los tengan.
+- Deberia terminar con un dataset sin filas duplicadas, reagrupado por cliente, mes, producto y tipo de producto.
+- El trabajo 2 original termina con un dataset listo para usar en modelos de aprendizaje supervisado como el tp3 y el tp4. Para el tp5 hace falta un preproceso distinto y vamos a agarrar el dataset al principio del dos para procesarlo en el 5. 
+- El preprocesamiento del 4 tendria que estar al final del 2
+- Exportar el df antes del punto 3
+
+Salida de TP1 --> TP2
+Salida de TP2 --> TP3
+Salida de TP3 --> TP4
+Salida de TP2 (antes del punto 3) --> TP5
+
+TP3
+
+- La entrada del 3 deberia tener todo codificado y sumarizado.
+- Volver a correr con las filas sin duplicar.
+- Agregar comentarios en operaciones q no los tengan. 
+- df_preprocesado.parquet deberia ser la entrada del 4
+
+TP4
+
+- la entrada del 4 ya deberia tener fg_aumentado, ya deberia tener todo codificado y sumarizado. 
+- Correr solo con mes en todos los modelos
+- Correr de vuelta votingRegressor
+- Correr con series temporales
+- Agrupar con mes con pivot table (opcional) 
+
+TP5
+
+- consignas
