@@ -1,7 +1,0 @@
-Dudas despues de la entrega
-
-1. Para predecir el monto, usamos la variable creada a partir del monto que indica si se gasto mas que el mes anterior?
-2. Para predecir la clasificacion, usamos monto_ajustado?
-3. Porque hay tantos datos con montos repetidos para un solo mes?
-4. No tenemos claro si conviene o no usar bias. Sin embargo probamos ambos metodos y nos dio igual. 
-5. En una de las pruebas del polinomio multivariado nos dio un error altisimo para el polinomio de grado 3 pero no tanto para el resto. 
